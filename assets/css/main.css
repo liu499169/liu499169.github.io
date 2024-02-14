@@ -2717,7 +2717,7 @@ input, select, textarea {
 		/* Banner */
 
 			#banner {
-				padding: calc(14em + 44px) 0 14em 0;
+				padding: calc(4em + 6px) 0 14em 0;
 			}
 
 		/* Nav */
