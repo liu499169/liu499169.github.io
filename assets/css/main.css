@@ -2491,7 +2491,7 @@ input, select, textarea {
 			background-color: rgba(21, 28, 23, 0.85);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
-			background-size: auto, 50% 80%;
+			background-size: auto, 50% 10%;
 			background-repeat: repeat, no-repeat;
 			text-align: center;
 			margin: 0;
