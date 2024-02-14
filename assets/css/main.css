@@ -2481,7 +2481,7 @@ input, select, textarea {
 		background-image: url("images/overlay.png"), url("images/overlay.png"), url("../../images/banner.jpg");
 		background-position: top left, top left, center center;
 		background-repeat: repeat, repeat, no-repeat;
-		background-size: auto, auto, cover;
+		background-size: 50%, 25%, 25%;  /* auto, auto, cover; */ 
 		z-index: 1;
 		padding: 5em 0;
 	}
